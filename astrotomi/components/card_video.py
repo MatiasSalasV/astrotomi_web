@@ -35,7 +35,7 @@ def card_video(
                     rx.flex(
                         rx.avatar(
                             size="3",
-                            src="/astrotomi.png",
+                            src="/astrotomi.PNG",
                             fallback="AT",
                             radius="full",
                             width="48px",
