@@ -31,24 +31,24 @@ def youtube() -> rx.Component:
             rx.vstack(
                 card_video(
                     "Mi tesis de astrofísica | Resumen",
-                    "photos/video.png",
+                    "/video.png",
                     "https://www.youtube.com/watch?v=QnVPnO8lzok"
                 ),
                 card_video(
                     "Como es estudiar astronomía en Chile",
-                    "photos/video2.png",
+                    "/video2.png",
                     "https://www.youtube.com/watch?v=ho5W4mK9hyg"
                 ),
             ),
             rx.vstack(
                 card_video(
                     "Guía para Principiantes en INVERSIONES 2024",
-                    "photos/video3.png",
+                    "/video3.png",
                     "https://www.youtube.com/watch?v=Rgm9SGDzRFg"
                 ),
                 card_video(
                     "7 CONSEJOS para ser una Persona de Valor",
-                    "photos/video4.png",
+                    "/video4.png",
                     "https://www.youtube.com/watch?v=RvTenp6xAcw"
                 ),
             ),
