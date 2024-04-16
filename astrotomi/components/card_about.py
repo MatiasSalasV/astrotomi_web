@@ -5,7 +5,7 @@ def card_about() -> rx.Component:
     return rx.box(
         rx.flex(
             rx.avatar(
-                src="/astrotomi.png", 
+                src="/astrotomi.PNG", 
                 bg="linear-gradient(90deg, rgba(94,106,110,1) 0%, rgba(51,17,187,1) 100%)",
                 size="9",
                 fallback="AT",
