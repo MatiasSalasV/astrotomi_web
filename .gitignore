@@ -1,7 +1,7 @@
 *.db
 *.py[cod]
-.web
-__pycache__/
 .env
 .venv/
+.web
+__pycache__/
 generador_stars.py

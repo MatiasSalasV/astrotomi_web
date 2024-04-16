@@ -1,0 +1,1860 @@
+<svg  width="100%" height="100%"  xmlns="http://www.w3.org/2000/svg">
+    <!-- Definición del fondo del universo -->
+    <defs>
+        <linearGradient id="gradiente-lineal" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color: #264D99; stop-opacity: 1" />
+        <stop offset="44.18%" style="stop-color: #000000; stop-opacity: 1" />
+        </linearGradient>
+
+    </defs>
+
+
+    <!-- Fondo del universo con degradado de color -->
+    <rect x="0" y="0" width="100%" height="100%" fill="url(#gradiente-lineal)" />
+
+
+    <!-- 1 a 45 segundos  -->
+        <circle cx="154" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="655" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="1s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1253" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="2s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="192" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="3s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1979" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="4s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1239" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="179" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="6s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1599" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="7s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1777" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="8s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="942" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="9s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1719" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="10s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="487" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="11s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="965" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="12s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1963" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="13s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1752" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="14s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="976" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="15s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1428" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="16s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="14" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="17s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1648" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="18s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="455" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="19s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1183" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="20s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1647" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="21s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="885" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="22s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="311" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="23s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1863" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="24s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="166" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="25s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="692" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="26s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1196" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="27s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="132" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="28s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1035" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="29s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1940" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="30s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="622" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="31s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1892" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="32s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="123" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="33s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="728" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="34s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1546" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="35s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1551" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="36s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1011" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="37s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="531" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="38s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="350" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="39s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="691" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="40s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="496" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="41s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1220" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="42s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1304" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="43s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="722" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="44s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="456" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="906" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="1s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1247" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="2s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1391" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="3s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1749" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="4s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="349" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="651" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="6s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1032" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="7s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="716" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="8s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="167" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="9s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1154" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="10s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1463" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="11s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="300" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="12s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="373" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="13s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1008" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="14s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="861" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="15s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1035" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="16s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1416" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="17s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1679" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="18s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1772" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="19s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="428" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="20s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="466" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="21s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1162" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="22s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="280" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="23s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="286" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="24s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1717" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="25s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1709" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="26s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1236" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="27s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1735" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="28s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1970" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="29s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="532" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="30s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="909" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="31s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1714" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="32s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="369" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="33s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="220" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="34s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1036" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="35s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="636" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="36s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="874" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="37s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="821" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="38s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="536" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="39s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1970" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="40s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="168" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="41s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1207" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="42s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1345" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="43s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1728" cy="1000" r="1" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="45s" begin="44s" repeatCount="indefinite" />
+        </circle>
+    <!-- final -->
+
+    <!-- 0.5 a 20 segundos -->
+
+        <circle cx="1762" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="0.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="904" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="0.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="173" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="1.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1950" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="1.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="517" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="2.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="785" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="2.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="696" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="3.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1638" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="3.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="450" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="4.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="99" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="4.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="777" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="5.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1461" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="5.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="146" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="6.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1647" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="6.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="111" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="7.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="739" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="7.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1242" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="8.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="640" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="8.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="586" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="9.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1068" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="9.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="360" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="10.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1914" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="10.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1769" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="11.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="250" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="11.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1927" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="12.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1343" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="12.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1319" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="13.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="274" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="13.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="760" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="14.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1281" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="14.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="445" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="15.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="231" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="15.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="441" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="16.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="587" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="16.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1774" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="17.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1535" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="17.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1619" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="18.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1663" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="18.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1594" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="19.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1813" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="19.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1390" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="0.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1772" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="0.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1770" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="1.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1667" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="1.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1419" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="2.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1392" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="2.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1163" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="3.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="234" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="3.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1272" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="4.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="435" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="4.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1826" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="5.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1234" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="5.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1631" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="6.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="197" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="6.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="72" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="7.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1452" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="7.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="204" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="8.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="72" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="8.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="464" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="9.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1906" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="9.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1075" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="10.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="502" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="10.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="874" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="11.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1364" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="11.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="555" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="12.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1788" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="12.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="239" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="13.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="761" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="13.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="292" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="14.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="575" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="14.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="982" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="15.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="956" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="15.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="232" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="16.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1440" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="16.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1184" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="17.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="944" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="17.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1819" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="18.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1887" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="18.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="783" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="19.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1774" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="19.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="362" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="0.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1504" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="0.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="549" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="1.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="904" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="1.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1707" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="2.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1482" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="2.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="485" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="3.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="68" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="3.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="701" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="4.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1588" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="4.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1039" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="5.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1331" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="5.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="317" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="6.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1829" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="6.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="395" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="7.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="780" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="7.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="188" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="8.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1174" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="8.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1422" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="9.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="105" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="9.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="337" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="10.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="588" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="10.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1491" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="11.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1186" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="11.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="245" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="12.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="901" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="12.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1914" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="13.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1278" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="13.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="372" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="14.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1717" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="14.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1571" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="15.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1122" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="15.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1035" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="16.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1509" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="16.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1011" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="17.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1747" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="17.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="5" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="18.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="490" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="18.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="7" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="19.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1578" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="19.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1232" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="0.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="834" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="0.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1581" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="1.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="595" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="1.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="314" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="2.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="481" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="2.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1638" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="3.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1464" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="3.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="115" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="4.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="457" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="4.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="935" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="5.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1392" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="5.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1139" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="6.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="661" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="6.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="998" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="7.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="314" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="7.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1388" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="8.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1740" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="8.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="196" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="9.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="6" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="9.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1155" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="10.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1572" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="10.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1400" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="11.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="920" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="11.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1497" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="12.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="649" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="12.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1040" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="13.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="721" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="13.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="968" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="14.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="233" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="14.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="237" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="15.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1408" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="15.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1836" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="16.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1281" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="16.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="849" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="17.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="430" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="17.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="835" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="18.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="709" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="18.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="557" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="19.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="840" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="19.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="448" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="0.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1975" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="0.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="799" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="1.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="374" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="1.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1250" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="2.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1127" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="2.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="377" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="3.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="640" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="3.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="552" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="4.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1088" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="4.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="149" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="5.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1598" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="5.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1327" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="6.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1279" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="6.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1930" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="7.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="168" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="7.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1440" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="8.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1229" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="8.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="968" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="9.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="867" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="9.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1298" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="10.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="223" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="10.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="958" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="11.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1229" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="11.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1290" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="12.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1227" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="12.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1326" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="13.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1507" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="13.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1502" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="14.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="333" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="14.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1696" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="15.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="947" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="15.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1033" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="16.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1422" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="16.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1920" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="17.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="529" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="17.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1459" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="18.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1464" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="18.5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="384" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="19.0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1008" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="20s" begin="19.5s" repeatCount="indefinite" />
+        </circle>
+
+    <!-- fin -->
+
+
+    <!-- 1.7 a 60 segundos  -->
+
+        <circle cx="558" cy="140" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="60s" begin="0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1700" cy="144" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="60s" begin="0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="608"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="60s" begin="4s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1258"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="60s" begin="4s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1600"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="60s" begin="4s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1477"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="60s" begin="6s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="127"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="61s" begin="6s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="762"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="61s" begin="8s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1992"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="60s" begin="8s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1893"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="60s" begin="10s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="171"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="61s" begin="10s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="377"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="60s" begin="14s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1429"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="61s" begin="14s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="258"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="61s" begin="16s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1159"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="60s" begin="16s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1531"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="61s" begin="18s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="895"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="61s" begin="18s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1589"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="61s" begin="20s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="522"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="60s" begin="20s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="217"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="61s" begin="24s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="413"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="60s" begin="24s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="816"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="61s" begin="26s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1953"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="60s" begin="26s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1915"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="60s" begin="28s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="618"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="61s" begin="28s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1119"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="61s" begin="30s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="222"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="60s" begin="30s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1404"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="61s" begin="34s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="155"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="61s" begin="34s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="463"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="60s" begin="36s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1352"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="61s" begin="36s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="409"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="61s" begin="38s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1871"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="60s" begin="38s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1993"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="60s" begin="40s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="445"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="60s" begin="40s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="876"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="60s" begin="44s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="968"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="61s" begin="44s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="489"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="61s" begin="46s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="14"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="60s" begin="46s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="607"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="61s" begin="48s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1118"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="60s" begin="48s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="187"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="61s" begin="50s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="445"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="61s" begin="50s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="650"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="60s" begin="54s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1544"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="60s" begin="54s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1113"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="61s" begin="56s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1993"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="61s" begin="56s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1775"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="61s" begin="58s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1747"  cy="1000" r="1.7" fill="#b68f4c">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="60s" begin="58s" repeatCount="indefinite" />
+        </circle>
+    <!-- fin -->
+
+
+    <!-- 0.5 a 270 segundos -->
+        <circle cx="638" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="0s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="872" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="1s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1317" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="2s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="64" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="3s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1526" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="4s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="694" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="5s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1185" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="6s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="557" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="7s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1720" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="8s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1768" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="9s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="748" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="10s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1393" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="11s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1952" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="12s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="787" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="13s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="621" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="14s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1298" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="15s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="234" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="16s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1871" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="17s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1931" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="18s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1998" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="19s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="968" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="20s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1432" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="21s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="810" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="22s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1753" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="23s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="50" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="24s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1771" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="25s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1862" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="26s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="784" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="27s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="78" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="28s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="582" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="29s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1510" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="30s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1712" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="31s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1762" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="32s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1100" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="33s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1682" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="34s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="923" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="35s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1747" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="36s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="98" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="37s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="553" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="38s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="536" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="39s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1236" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="40s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="793" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="41s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="577" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="42s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1281" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="43s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="925" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="44s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1050" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="45s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="680" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="46s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1432" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="47s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="590" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="48s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1183" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="49s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1309" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="50s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="88" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="51s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1652" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="52s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1425" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="53s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="636" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="54s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="996" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="55s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1996" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="56s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1740" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="57s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1042" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="58s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1530" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="59s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1652" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="60s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="147" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="61s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="899" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="62s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1033" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="63s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="585" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="64s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="463" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="65s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1253" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="66s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="751" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="67s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="870" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="68s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="913" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="69s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1177" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="70s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="540" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="71s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="345" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="72s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="398" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="73s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1469" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="74s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1663" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="75s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1565" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="76s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1242" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="77s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1626" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="78s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="355" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="79s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="686" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="80s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="976" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="81s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="126" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="82s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1204" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="83s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="218" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="84s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1477" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="85s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="546" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="86s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1492" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="87s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1376" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="88s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="583" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="89s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1420" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="90s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="666" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="91s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1611" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="92s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="856" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="93s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="692" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="94s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="750" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="95s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="376" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="96s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="661" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="97s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="614" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="98s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1160" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="99s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1262" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="100s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="631" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="101s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1147" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="102s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1591" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="103s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1364" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="104s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1965" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="105s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1919" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="106s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1104" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="107s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="758" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="108s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="354" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="109s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="76" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="110s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="378" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="111s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="504" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="112s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1137" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="113s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="424" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="114s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1244" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="115s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="149" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="116s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="892" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="117s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1918" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="118s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1659" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="119s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="392" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="120s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="163" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="121s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="873" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="122s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1472" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="123s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1254" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="124s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1364" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="125s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1805" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="126s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="946" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="127s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1823" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="128s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="948" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="129s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="569" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="130s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1824" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="131s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="528" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="132s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="792" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="133s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1711" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="134s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="84" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="135s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="467" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="136s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="769" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="137s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1744" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="138s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1837" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="139s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1343" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="140s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1232" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="141s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="738" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="142s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1957" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="143s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="615" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="144s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1843" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="145s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1569" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="146s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="513" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="147s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1696" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="148s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1968" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="149s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="37" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="150s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1182" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="151s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="628" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="152s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="495" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="153s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1344" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="154s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1538" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="155s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="895" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="156s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1411" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="157s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="881" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="158s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1858" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="159s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1061" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="160s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1740" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="161s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="978" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="162s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="723" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="163s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1462" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="164s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1988" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="165s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="925" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="166s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="409" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="167s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="132" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="168s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1688" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="169s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1020" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="170s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="503" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="171s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="276" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="172s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1535" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="173s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="655" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="174s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1439" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="175s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1366" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="176s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="426" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="177s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1971" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="178s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1139" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="179s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1279" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="180s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1400" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="181s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="639" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="182s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="397" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="183s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1644" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="184s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="339" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="185s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="950" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="186s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1552" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="187s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1944" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="188s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1411" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="189s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="328" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="190s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1559" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="191s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="264" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="192s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1676" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="193s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1596" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="194s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1903" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="195s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1452" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="196s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="101" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="197s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="557" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="198s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="700" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="199s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1409" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="200s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1308" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="201s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="514" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="202s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="896" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="203s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1851" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="204s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="902" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="205s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="141" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="206s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="329" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="207s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="639" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="208s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="727" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="209s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="637" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="210s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="718" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="211s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="491" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="212s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1123" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="213s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1205" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="214s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1306" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="215s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="513" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="216s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1800" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="217s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="816" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="218s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="322" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="219s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="331" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="220s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="400" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="221s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1721" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="222s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="561" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="223s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1095" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="224s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="368" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="225s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1590" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="226s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1555" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="227s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1182" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="228s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1474" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="229s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="451" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="230s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1431" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="231s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="602" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="232s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="642" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="233s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="343" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="234s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1575" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="235s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="347" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="236s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1729" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="237s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="249" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="238s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="112" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="239s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1467" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="240s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="815" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="241s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="103" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="242s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="730" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="243s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="627" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="244s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="499" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="245s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="761" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="246s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1737" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="247s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="446" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="248s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1327" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="249s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1094" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="250s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="592" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="251s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1933" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="252s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="558" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="253s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="524" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="254s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="144" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="255s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1245" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="256s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1357" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="257s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1533" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="258s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1389" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="259s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="267" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="260s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1961" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="261s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="434" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="262s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="133" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="263s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="924" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="264s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="317" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="265s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="762" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="266s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1315" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="267s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1826" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="268s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="1371" cy="1000" r="0.5" fill="#C49952">
+            <animate attributeName="cy" attributeType="XML" values="100vh; 0" dur="270s" begin="269s" repeatCount="indefinite" />
+        </circle>
+    <!-- final -->
+
+</svg>
