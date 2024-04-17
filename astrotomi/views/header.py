@@ -7,7 +7,7 @@ def header() -> rx.Component:
             rx.heading(
                 "Explora el universo con AstroTomii",
                 font_size=["1.1em","1.5em","2em"],
-                color=styles.Color.TITLE_COLOR.value,
+                color="rgb(187 198 253 / 1)",
                 padding_y=["0em","0.1em"],
             ),
             rx.heading(
@@ -42,7 +42,7 @@ def header() -> rx.Component:
             ),
             rx.button(
                 rx.link(
-                    "Agenda una ASESORÍA",
+                    "Solicita tu servicio",
                     href="#services",
                 ),
                 variant="solid",

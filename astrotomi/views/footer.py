@@ -27,10 +27,12 @@ def footer() -> rx.Component:
         ),
 
         rx.text(
-            "© 2024 AstroTomii. Todos los derechos reservados."
+            "© 2024 AstroTomii. Todos los derechos reservados.",
+            align="center"
         ),
         width="100%",
         justify="center",
+        text_align="center",
         align="center",
         color=styles.Color.WHITE_COLOR.value,
         id="contact"
