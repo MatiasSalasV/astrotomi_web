@@ -18,19 +18,15 @@ def card_video(
                         spacing="1",
                         align="center"
                     ),
-                    # color_scheme="amber",
                     radius="full",
                     bg="#4a4d89",
                     variant="solid",
                     color="white"
-                    # size="2",
                 ),
                 rx.box(
                     rx.heading(
                         title,
                         padding_y=styles.EMSize.SMALL.value
-                        # size="2",
-                        # margin_bottom="24px"
                     ),
                     rx.flex(
                         rx.avatar(
@@ -45,7 +41,6 @@ def card_video(
                         rx.text(
                             "AstroTomi",
                             size="3",
-                            # weight="bold"
                         ),
                         gap="0.5em",
                         align="center"

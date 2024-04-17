@@ -83,8 +83,6 @@ def navbar() -> rx.Component:
                     rx.icon(tag="menu"),
                     variant="outline",
                     border="0px",
-                    # radius="full",
-                    # style=styles.menu_icon_style
                 ),
                 display=["flex", "flex", "flex", "none", "none"],
                 color=styles.Color.WHITE_COLOR.value
@@ -150,7 +148,6 @@ def navbar() -> rx.Component:
                                 padding_x=styles.EMSize.DEFAULT.value,
                             ),   
                             align_items="start",
-                            # padding_y=styles.EMSize.BIG.value,
                         ),
                         # rx.text(
                         #     "ENCUENTRAME EN",

@@ -26,7 +26,6 @@ def card_testimonials(
                             size="4",
                             trim="both",
                             weight="medium",
-                            # weight="bold"
                         ),
                         rx.text(
                             ocupacion,
@@ -43,15 +42,12 @@ def card_testimonials(
                 f'"{testimonio}"',
                 padding_y=styles.EMSize.SMALL.value,
                 font_style="Italic"
-                # size="2",
-                # margin_bottom="24px"
             ),   
             padding="2em 1.5em"
         ),
         max_width="470px",
         width="100%",
         color="#FFFFFF",
-        # margin_bottom = "1em",
         margin=["1em 0","1em 0","1em"],
         style=styles.card_style
     )

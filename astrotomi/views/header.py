@@ -66,12 +66,9 @@ def header() -> rx.Component:
             rx.image(
                 # src="/1.svg",
                 src="/space3.png",
-                # max_width="800px",
                 width="300px",
                 height="auto"
             ),
-            # align="center",
-            # justify="center",
             padding="2em"
         ),
 
@@ -82,53 +79,4 @@ def header() -> rx.Component:
         width="100%",
         id="inicio"
         
-    )
-
-
-
-
-
-
-
-
-
-
-
-
-rx.box(
-        rx.flex(
-            rx.vstack(
-                rx.heading(
-                    "Become an expert React Native developer faster",
-                    size="6",
-                    align="center",
-                    color="white",
-                    max_width="600px"
-                ),
-                rx.text(
-                    "From fundamentals to publishing iOS & Android apps, Galaxies helps you          to become a React Native developer fast.",
-                    size="4",
-                    align="center",
-                    color="white",
-                    max_width="600px"
-                ),
-                rx.button(
-                    "Start for FREE",
-                    variant="solid",
-                    size="3",
-                    color="orange"
-                ),
-            ),
-            
-            rx.image(
-                src="/space3.png",
-                # height="400px"
-            ),
-            
-        
-            align="center",
-            justify="center",
-            width="100%",
-            flex_direction=["column","column","column","row","row"],
-        )
     )

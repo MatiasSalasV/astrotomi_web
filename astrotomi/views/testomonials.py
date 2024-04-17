@@ -52,9 +52,7 @@ def testimonials() -> rx.Component:
             ),
             wrap="wrap",
             justify="center"
-            # flex_direction=["column","column","column","row","row"],
         ),
-        # padding_bottom="10em",
         padding=["1em 1em 5em 1em","1em 1em 6em 1em","1em 1em 6em 1em","1em 1em 10em 1em","1em 1em 10em 1em"],
         width="100%",
         justify="center",

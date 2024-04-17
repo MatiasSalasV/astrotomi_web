@@ -51,7 +51,6 @@ def contact() -> rx.Component:
             justify="center",
             align="center",
             width="100%",
-            # padding_y="5em"
         ),
         padding="1em",
         width="100%",

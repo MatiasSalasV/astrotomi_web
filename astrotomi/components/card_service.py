@@ -74,7 +74,6 @@ def card_service(
         max_width="470px",
         width="100%",
         color="#FFFFFF",
-        # margin_bottom = "1em",
         margin=["1em 0","1em 0","1em"],
         style=styles.card_style
     )
