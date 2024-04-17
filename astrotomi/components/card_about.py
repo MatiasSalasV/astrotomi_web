@@ -15,14 +15,19 @@ def card_about() -> rx.Component:
             ),
             rx.box(
                 rx.heading(
-                    "Hola, soy AstroTomii 👋",
+                    "Hola, soy Tomás Fuentes 👋",
                     size="8",
                     margin_bottom="8px",
                     weight="bold",
                     color=styles.Color.TITLE_COLOR.value
                 ),
                 rx.text(
-                    "Un apasionado por la astrofísica y estoy apunto de continuar mis estudios en un doctorado. Durante el camino también me interesé mucho en las inversiones, educación financiera y negocios.",
+                    """
+                    Un apasionado por la astrofísica y la creación de contenido. 
+                    Una de mis mayores metas es enseñar lo que he ido aprendiendo 
+                    sobre el universo, a través de videos en mi canal de YouTube y 
+                    clases personalizadas.
+                    """,
                     size="3",
                     padding_y="0.5em",
                     color=styles.Color.PURPLE_COLOR.value,
@@ -31,7 +36,10 @@ def card_about() -> rx.Component:
                 ),
                 rx.text(
                     """
-                    Una de mis pasiones es enseñar, y, en las redes sociales encontré un espacio para poder compartir todos mis aprendizajes en ambos campos
+                    Soy Licenciado en Astrofísica por la UTFSM, 
+                    con experiencia en diversas áreas de estudio, desde física introductoria 
+                    hasta formación planetaria y extragaláctica. Actualmente mi enfoque investigativo 
+                    se centra en zonas de formación estelar en galaxias a bajo redshift.
 
                     """,
                     as_="p",
@@ -40,17 +48,17 @@ def card_about() -> rx.Component:
                     color=styles.Color.PURPLE_COLOR.value,
                     font_size="1.25em"
                 ),
-                rx.text(
-                    """
-                        AstroTomii es un proyecto dedicado a compartir desarrollo personal, financiero y mentalidad, también documento mi carrera como astrofísico. Uno de mis sueños de niño fue ser Youtuber, 
-                        actualmente estoy muy interesado en la creación de contenido y edición de video. Herramientas con las cuales emprendí denuevo un canal.
-                    """,
-                    as_="p",
-                    size="3",
-                    padding_y="0.5em",
-                    color=styles.Color.PURPLE_COLOR.value,
-                    font_size="1.25em"
-                ),
+                # rx.text(
+                #     """
+                #         AstroTomii es un proyecto dedicado a compartir desarrollo personal, financiero y mentalidad, también documento mi carrera como astrofísico. Uno de mis sueños de niño fue ser Youtuber, 
+                #         actualmente estoy muy interesado en la creación de contenido y edición de video. Herramientas con las cuales emprendí denuevo un canal.
+                #     """,
+                #     as_="p",
+                #     size="3",
+                #     padding_y="0.5em",
+                #     color=styles.Color.PURPLE_COLOR.value,
+                #     font_size="1.25em"
+                # ),
                 
                 padding_y="1em",
             ),

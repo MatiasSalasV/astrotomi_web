@@ -27,9 +27,13 @@ def testimonials() -> rx.Component:
         ),
         rx.flex(
             card_testimonials(
-                "Persona 1",
-                "Estudiante UST",
-                "Texto de prueba para ver el testimonio con letra curva tipo citación externa entre doble comillas como un texto citado para testimonio",
+                "Maximiliano Apellido",
+                "Estudiante U??",
+                """Las clases estuvieron 10/10. Me gustó mucho que fueran personalizadas ya nadie 
+                ofrece eso acá en temas de astrofísica. Las presentaciones de PowerPoint demasiado 
+                buenas, y la explicación y forma de enseñar también excelente de verdad. Lo recomiendo 
+                mucho para cualquiera que quisiera aprender astrofísica, y tomaría clases denuevo si o sii 👍🏿👍🏿    
+                """,
                 "/astrotomi.PNG"
             ),
             card_testimonials(
