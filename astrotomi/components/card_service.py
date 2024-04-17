@@ -5,13 +5,14 @@ def card_service(
         title:str,
         description:str,
         value:str,
+        url:str
     ) -> rx.Component:
     return rx.box(
         rx.vstack(
             rx.hstack(
                 rx.heading(
                     title,
-                    size="8",
+                    size="7",
                     weight="bold",
                     color=styles.Color.TITLE_COLOR.value
                 ),
@@ -52,7 +53,7 @@ def card_service(
             rx.button(
                 rx.link(
                     "Agenda AHORA",
-                    href="https://calendly.com/",
+                    href=url,
                     is_external=True
                 ),
                 variant="solid",
@@ -68,10 +69,12 @@ def card_service(
                     "box_shadow": "0 2px 30px 8px #fef6b2",
                 }
             ),
+            padding="2em 1.5em"
         ),
-        max_width="460px",
+        max_width="470px",
         width="100%",
-        padding="3em 2em",
         color="#FFFFFF",
+        # margin_bottom = "1em",
+        margin=["1em 0","1em 0","1em"],
         style=styles.card_style
     )

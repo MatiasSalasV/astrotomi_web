@@ -12,14 +12,18 @@ def youtube() -> rx.Component:
                 size="4",
             ),
             rx.heading(
-                "Divulgación de la astronomía, crecimiento personal y temas varios",
+                "Divulgación de la astronomía, desarrollo personal y temas varios",
                 color=styles.Color.TITLE_COLOR.value,
                 size="8",
                 weight="bold",
                 padding_y=styles.EMSize.SMALL.value
             ),
             rx.text(
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+                """
+                Me gusta crear vídeos que exploran tanto la asombrosa vastedad 
+                del cosmos como el potencial ilimitado del desarrollo personal. 
+                ¿Preparado para expandir tu mente y sumergirte en un universo de posibilidades?
+                """,
                 color=styles.Color.PURPLE_COLOR.value,
                 font_size="1.25em",
             ),

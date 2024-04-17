@@ -27,15 +27,18 @@ def services() -> rx.Component:
         ),
         rx.hstack(
             card_service(
-                "Mentoría online",
+                "Mentoría 1 a 1",
                 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-                "$50.000"
-            )
-            # card_service(
-            #     "Próximament",
-            #     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
-            #     "$XX.XXX"
-            # )
+                "$50.000",
+                "https://calendly.com/"
+            ),
+            card_service(
+                "Academia de Astrofísica",
+                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+                "$75.000",
+                "https://calendly.com/"
+            ),
+            flex_direction=["column","column","column","row","row"],
         ),
         padding=["5em 1em","6em 1em","6em 1em","10em 1em","10em 1em"],
         width="100%",
@@ -43,119 +46,3 @@ def services() -> rx.Component:
         align="center",
         id="services"
     )
-        
-        
-        
-# def card_service() -> rx.Component:
-#   return rx.flex(
-#     rx.card(
-#       rx.flex(
-#         rx.box(
-#           rx.icon(
-#             "info",
-#             width="40",
-#             height="40"
-#           )
-#         ),
-#         rx.heading(
-#           "Design Services",
-#           as_="h2",
-#           size="3",
-#           weight="bold"
-#         ),
-#         rx.text(
-#           "High-quality UX/UI design for your digital products to enhance user            experience.",
-#           as_="p",
-#           size="2",
-#           color="gray"
-#         ),
-#         rx.button(
-#           "Learn More",
-#           variant="solid",
-#           size="2"
-#         ),
-#         gap="3px",
-#         direction="column",
-#         align="center"
-#       ),
-#       variant="surface",
-#       size="3",
-#       width="300px",
-#       margin="20px"
-#     ),
-#     rx.card(
-#       rx.flex(
-#         rx.box(
-#           rx.icon(
-#             "info",
-#             width="40",
-#             height="40"
-#           )
-#         ),
-#         rx.heading(
-#           "Consulting",
-#           as_="h2",
-#           size="3",
-#           weight="bold"
-#         ),
-#         rx.text(
-#           "Expert advice to help you manage and implement the best strategies            for your business.",
-#           as_="p",
-#           size="2",
-#           color="gray"
-#         ),
-#         rx.button(
-#           "Learn More",
-#           variant="solid",
-#           size="2"
-#         ),
-#         gap="3px",
-#         direction="column",
-#         align="center"
-#       ),
-#       variant="surface",
-#       size="3",
-#       width="300px",
-#       margin="20px"
-#     ),
-#     rx.card(
-#       rx.flex(
-#         rx.box(
-#           rx.icon(
-#             "info",
-#             width="40",
-#             height="40"
-#           )
-#         ),
-#         rx.heading(
-#           "Marketing",
-#           as_="h2",
-#           size="3",
-#           weight="bold"
-#         ),
-#         rx.text(
-#           "Innovative marketing solutions to increase your visibility and            engagement.",
-#           as_="p",
-#           size="2",
-#           color="gray"
-#         ),
-#         rx.button(
-#           "Learn More",
-#           variant="solid",
-#           size="2"
-#         ),
-#         gap="3px",
-#         direction="column",
-#         align="center"
-#       ),
-#       variant="surface",
-#       size="3",
-#       width="300px",
-#       margin="20px"
-#     ),
-#     as_="section",
-#     gap="4px",
-#     wrap="wrap",
-#     justify="center",
-#     align="center"
-#   )

@@ -6,6 +6,7 @@ from astrotomi.views.about import about
 from astrotomi.views.youtube import youtube
 from astrotomi.views.contact import contact
 from astrotomi.views.services import services
+from astrotomi.views.testomonials import testimonials
 from astrotomi.views.footer import footer
 
 def index() -> rx.Component:
@@ -24,6 +25,7 @@ def index() -> rx.Component:
                 about(),
                 youtube(),
                 services(),
+                testimonials(),
                 # contact(),
                 footer(),
                 max_width=styles.MAX_WIDTH,

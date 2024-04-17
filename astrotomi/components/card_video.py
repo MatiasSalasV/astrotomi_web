@@ -66,23 +66,13 @@ def card_video(
             href=url,
             is_external=True
         ),
-        # background= f"center/cover url(/{image})",
-        background= f"linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), center/cover url({image})",
-        # backdrop_filter= "blur(10px)",
-        
+        background= f"linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), center/cover url({image})",        
         max_width="460px",
         width="100%",
         margin=["1em 0","1em 0","1em"],
         color=styles.Color.TITLE_COLOR.value,
-        # text_shadow="0 -3px 20px #9fa9ff40,0 4px 20px #9fa9ff40",
         style=styles.card_video_style,
-        # filter= "brightness(0.35) blur(10px)",
-        
-        # max_width="571",
-        # background="linear-gradient(180deg, rgba(23,23,23,1) 0%, rgba(44,44,44,1) 100%)",
-        # border_radius="12px",
-        # padding="24px",
-        # color="white"
+    
     )
 
 

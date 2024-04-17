@@ -54,8 +54,8 @@ def navbar() -> rx.Component:
             padding_x=styles.EMSize.DEFAULT.value,
         ),
         rx.link(
-            "CONTÁCTAME",
-            href="#contact",
+            "TESTIMONIOS",
+            href="#testomonials",
             align_items="center",
             style=styles.nav_link,
             display=["none", "none", "none", "flex", "flex"],
