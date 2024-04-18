@@ -5,21 +5,31 @@ def card_testimonials(
         nombre:str,
         ocupacion:str,
         testimonio:str,
-        foto:str
     ) -> rx.Component:
     return rx.box(
         rx.vstack(
             rx.box(
                 rx.flex(
-                    rx.avatar(
-                        size="3",
-                        src=foto,
-                        fallback="AT",
-                        radius="full",
-                        width="48px",
-                        height="48px",
-                        border = "2px solid #3442BD"
+                    rx.box(
+                        rx.icon(
+                            "circle-user-round",                            
+                            width="48px",
+                            height="48px",
+                            color="var(--orange-8)"
+                            # color="orange"
+                            
+                        ),
+                        # padding="0.2em",
+                        border_radius="50%",
+                        bg="radial-gradient(66.51% 75.22% at .48% 101.69%,rgba(149,59,181,.3) 0%,#ffffff10 100%),linear-gradient(107.33deg,#264d99 0%,#05050a 47.75%)",
+                        # border = "2px solid #3442BD"
                     ),
+                    # rx.avatar(
+                    #     size="3",
+                    #     src=foto,
+                    #     fallback="AT",
+                        
+                    # ),
                     rx.vstack(
                         rx.heading(
                             nombre,

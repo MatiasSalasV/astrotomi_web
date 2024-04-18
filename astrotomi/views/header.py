@@ -64,12 +64,12 @@ def header() -> rx.Component:
 
         rx.vstack(
             rx.image(
-                # src="/1.svg",
-                src="/space3.png",
-                width="300px",
-                height="auto"
+                src="/astronauta.png",
+                width="500px",
+                height="auto",
+                
             ),
-            padding="2em"
+            justify="end"
         ),
 
         flex_direction=["column","column","column","row","row"],

@@ -25,8 +25,9 @@ def card_about() -> rx.Component:
                     """
                     Un apasionado por la astrofísica y la creación de contenido. 
                     Una de mis mayores metas es enseñar lo que he ido aprendiendo 
-                    sobre el universo, a través de videos en mi canal de YouTube y 
-                    clases personalizadas.
+                    sobre el universo, galaxias y cosmología, que son mis áreas de 
+                    investigación e interés, a través de videos en mi canal de 
+                    YouTube y clases personalizadas.
                     """,
                     size="3",
                     padding_y="0.5em",
