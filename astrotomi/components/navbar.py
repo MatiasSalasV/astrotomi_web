@@ -1,5 +1,6 @@
 import reflex as rx
 import astrotomi.styles.styles as styles
+from astrotomi.components.social_media import social_media
 
 def navbar() -> rx.Component:
   return rx.flex(
@@ -18,8 +19,6 @@ def navbar() -> rx.Component:
         align="center",
         gap="4px"
     ),    
-    
-    
     rx.flex(
         rx.link(
             "SOBRE MI",
@@ -29,14 +28,6 @@ def navbar() -> rx.Component:
             display=["none", "none", "none", "flex", "flex"],
             padding_x=styles.EMSize.DEFAULT.value,
         ),
-        # rx.link(
-        #     "LO QUE HAGO",
-        #     # href="#features",
-        #     align_items="center",
-        #     style=styles.nav_link,
-        #     display=["none", "none", "none", "flex", "flex"],
-        #     padding_x=styles.EMSize.DEFAULT.value,
-        # ),
         rx.link(
             "YOUTUBE",
             href="#youtube",
@@ -73,7 +64,6 @@ def navbar() -> rx.Component:
             box_shadow="0 0 6px #9d60d480",
             border="solid 1px #edb680",
             color= "#fff",
-            # padding="1em",
             padding=["0em 1em","0em 3em","0em 3em","0em 3em","0em 3em"],
         ),
 
@@ -93,9 +83,13 @@ def navbar() -> rx.Component:
                     rx.vstack(
                         rx.hstack(
                             rx.avatar(
-                                fallback="ASTTO",
-                                size="8",
-                                color_scheme="amber"
+                                src="/astrotomi.PNG", 
+                                bg="linear-gradient(90deg, rgba(94,106,110,1) 0%, rgba(51,17,187,1) 100%)",
+                                size="9",
+                                fallback="AT",
+                                radius="full",
+                                margin="1em",
+                                border = "2px solid #3442BD"
                             ),
                             rx.flex(
                                 rx.drawer.close(
@@ -114,70 +108,59 @@ def navbar() -> rx.Component:
                             width="100%"
                         ),
                         rx.text(
-                            "Digitalizo y automatizo tu negocio con IA, brindándote la ventaja de liderar tu sector.",
+                            """
+                            Me gusta crear vídeos que exploran tanto la asombrosa vastedad del cosmos como el 
+                            potencial ilimitado del desarrollo personal.
+                            """,
+                            color=styles.Color.PURPLE_COLOR.value,
+                            font_size="1.05em",
+                            padding_top=styles.EMSize.DEFAULT.value,
+                            padding_bottom=styles.EMSize.SMALL.value
+                        ),
+                        rx.text(
+                            """
+                           ¿Preparado para expandir tu mente y 
+                            sumergirte en un universo de posibilidades?
+                            """,
+                            color=styles.Color.PURPLE_COLOR.value,
+                            font_size="1.05em",
+                            padding_bottom=styles.EMSize.LARGE.value
+                        ),
+                        rx.text(
+                            "ENCUENTRAME EN",
+                            weight="bold",
                             color=styles.Color.WHITE_COLOR.value,
-                            padding_y=styles.EMSize.LARGE.value
                         ),
-                        rx.vstack(
-                            rx.link(
-                                "SOBRE MI",
-                                # href="#about",
-                                align_items="center",
-                                style=styles.nav_link,
-                                padding_x=styles.EMSize.DEFAULT.value,
-                            ),
-                            rx.link(
-                                "LO QUE HAGO",
-                                # href="#features",
-                                align_items="center",
-                                style=styles.nav_link,
-                                padding_x=styles.EMSize.DEFAULT.value,
-                            ),
-                            rx.link(
-                                "YOUTUBE",
-                                # href="#youtube",
-                                align_items="center",
-                                style=styles.nav_link,
-                                padding_x=styles.EMSize.DEFAULT.value,
-                            ),
-                            rx.link(
-                                "CONTÁCTAME",
-                                href="#contact",
-                                align_items="center",
-                                style=styles.nav_link,
-                                padding_x=styles.EMSize.DEFAULT.value,
-                            ),   
-                            align_items="start",
-                        ),
-                        # rx.text(
-                        #     "ENCUENTRAME EN",
-                        #     # font_weight=FontWeight.MEDIUM.value,
-                        #     # color=TextColor.TEXT.value
-                        # ),
                         
-                        # rx.hstack(
-                        #     icon_link_button(
-                        #         "linkedin", 
-                        #             const.LINKEDIN_URL,
-                        #             "LinkedIn"
-                        #         ),
-                        #         icon_link_button(
-                        #             "youtube",
-                        #             const.YOUTUBE_URL,
-                        #             "YouTube"
-                        #         ),
-                        #         icon_link_button(
-                        #             "twitter", 
-                        #             const.TWITTER_URL,
-                        #             "Twitter"
-                        #         ), 
-                        #     ),
+                        rx.flex(
+                            social_media(
+                                "/icons/youtube.svg",
+                                "rgba(255, 0, 0, 0.5) 0px 4px 20px, rgba(255, 255, 255, 0.7) -1px 0px 4px",
+                                "https://www.youtube.com/@astrotomii"
+                            ),
+                            social_media(
+                                "/icons/instagram.svg",
+                                "rgb(229, 53, 171) 0px 4px 20px, rgba(255, 255, 255, 0.7) -1px 0px 4px",
+                                "https://www.instagram.com/astrotomi"
+                            ),
+                            social_media(
+                                "/icons/gmail.svg",
+                                "rgb(255, 255, 255) 0px 4px 20px, rgba(255, 255, 255, 0.7) -1px 0px 4px",
+                                """
+                                    mailto:tomas.fuentesf@usm.cl?subject=Consulta Servicios AstroTomii&body=Hola,
+                                    estoy interesado/a en tus servicios de mentorías de astrofísica y me gustaría recibir más información al respecto. 
+                                    ¿Podrías enviarme detalles sobre sus servicios, disponibilidad y precios?
+                                """,
+                            ),
+                            wrap="wrap",
+                            justify="start"
+                        ),
                     ),
                         
                     height="100%",
                     width="85%",
-                    padding=styles.EMSize.LARGE.value,
-                    background_color="rgba(41,43,84, 0.6)"
+                    padding="1.5em",
+                    background="radial-gradient(66.51% 75.22% at .48% 101.69%,rgba(149,59,181,.3) 0%,#ffffff10 100%),linear-gradient(107.33deg,#264d99 0%,#05050a 47.75%)"
                 )
             ),
             direction="left",

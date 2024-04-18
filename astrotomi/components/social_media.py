@@ -19,9 +19,9 @@ def social_media(
             bg="radial-gradient(circle at top right, #1b2157, #000000)",
             box_shadow=shadow,
             border_radius="100%",
-            width = "75px",
-            height="75px",
-            margin = "1em",
+            width = "70px",
+            height="70px",
+            margin = "0.5em",
             style={
                 "transition": "transform 0.5s ease",  # Agrega una transición suave para la propiedad transform
             },
